@@ -131,9 +131,9 @@ const VirtualAgrovet = () => {
               <h5 className="footer-heading">About Virtual Agrovet</h5>
               <p className="text-muted footer-text">Heart of Perfect Farming since 2010</p>
               <div className="social-icons mt-3">
-                <a href="#" className="text-white me-2"><i className="bi bi-facebook"></i></a>
-                <a href="#" className="text-white me-2"><i className="bi bi-twitter"></i></a>
-                <a href="#" className="text-white me-2"><i className="bi bi-instagram"></i></a>
+                <a href="https://www.facebook/" className="text-white me-2"><i className="bi bi-facebook"></i></a>
+                <a href="https://www.twitter/" className="text-white me-2"><i className="bi bi-twitter"></i></a>
+                <a href="https://www.instagram/" className="text-white me-2"><i className="bi bi-instagram"></i></a>
               </div>
             </Col>
             <Col md={4} className="mb-3 footer-col">
